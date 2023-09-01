@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newson/static/css/main.e6c13ad2.css",
+    "main.js": "/newson/static/js/main.c7db0da3.js",
+    "static/js/787.4c026eef.chunk.js": "/newson/static/js/787.4c026eef.chunk.js",
+    "index.html": "/newson/index.html",
+    "main.e6c13ad2.css.map": "/newson/static/css/main.e6c13ad2.css.map",
+    "main.c7db0da3.js.map": "/newson/static/js/main.c7db0da3.js.map",
+    "787.4c026eef.chunk.js.map": "/newson/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c7db0da3.js"
+  ]
+}
