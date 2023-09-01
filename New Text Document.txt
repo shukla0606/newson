@@ -1,0 +1,3 @@
+npm start
+
+impliemented the tech to auto location access and ,, also the , location information temarature
